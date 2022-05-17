@@ -1,0 +1,19 @@
+psql -U postgres
+
+createdb ds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\q
